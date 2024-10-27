@@ -1,0 +1,8 @@
+0.0.0.0 guzg78logz.adobe.io
+127.0.0.1 guzg78logz.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 b5kbg2ggog.adobe.io
+127.0.0.1 p13n.adobe.io
+127.0.0.1 7sj9n87sls.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 1hzopx6nz7.adobe.io
